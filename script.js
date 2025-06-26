@@ -118,4 +118,4 @@ switch (weatherType) {
     console.log("Ukjent værtype");
 }
 
-// Skriv koden for ekstraoppgave 3| her wrong place, waddevah
+// Skriv koden for ekstraoppgave 3 her | wrong place, waddevah
